@@ -1,3 +1,6 @@
+# Other
+*.cs
+
 # Prerequisites
 *.d
 
